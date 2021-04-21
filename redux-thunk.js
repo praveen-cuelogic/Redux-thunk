@@ -14,7 +14,7 @@ const axios = require("axios");
 
 const initialState = {
   loading: false,
-  user: [],
+  users: [],
   error: "",
 };
 
